@@ -2,4 +2,4 @@
 
 Code du cours de C++ sur les comptes pour tests GitHub
 
-Ceci est la modification du cul
+Ceci est la modification du cul de Clochette
